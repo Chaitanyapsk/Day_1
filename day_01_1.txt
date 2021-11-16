@@ -1,0 +1,30 @@
+statical typed languag
+
+1)In this type of variable is known at compile time.
+2)Every variable known befere compiling process
+3)in this once a variable is assigned a type it can’t be assigned to some other variable of a different type
+4)Declared variable & Data type is fixed
+
+Dynamically_typed language
+
+1)In this variable check during Run-time.
+2)No need to specify the data type of each variable .
+3)In this we need not worry about the types of variable
+4)dynamically-typed languages are comparatively faster during development time and are more flexible.	
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
+ Programming Language
+
+i)It way by which programmers communicate with computers through the set of instructions known as code.	
+ii)In this source coode is compiled to conver to machin code
+iii)These are well suited for large projects
+iv)These are used to transform set of data
+
+Scripting Language
+
+i)It is a type of programming language which does not require explicit compilation step and it is designed for a runtime system to automate the execution of tasks
+ii)It is an easy and quick process to learn coding in Scripting language
+iii)There are less number of data structures and variable to be used, which make it highly efficient
+iv)These are Less code-intensive as compared to traditional programming languages
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	

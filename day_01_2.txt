@@ -1,0 +1,13 @@
+2) Write a blog on Difference between HTTP1.1 vs HTTP2
+
+
+HTTP 1.1
+
+i) It allowed multiple requests/responses per TCP connection
+ii)Duplication Of Data
+
+HTTP 2
+
+i)Allows using same TCP connection for multiple parallel requests
+ii)Compressed headers, reduced data redundancy
+iii) the server can Push the resources it believes would be required by the client. Avoids the round trip.
